@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Mirage es un proyecto que tiene por objetivo modelar un sistema capaz de replicar diferentes estilos musicales de diversas épocas utilizando grandes modelos de lenguaje (LLM), redes LSTM (Long Short Term Memory), técnicas de aprendizaje por transferencia (transfer learning) y redes neuronales basadas en atención. El sistema genera composiciones completas en archivos MIDI que posteriormente pueden orquestarse o instrumentarse con instrumentos virtuales.
+Mirage es un proyecto que tiene por objetivo modelar un sistema capaz de replicar diferentes estilos musicales de diversas épocas utilizando grandes modelos de lenguaje (LLM), redes LSTM (Long Short Term Memory), técnicas de aprendizaje por transferencia (transfer learning) y redes neuronales basadas en atención. El sistema genera composiciones completas en archivos ABC que posteriormente pueden orquestarse o instrumentarse con instrumentos virtuales.
 
 La iniciativa abarca el estudio de hitos significativos en la historia de la música para lograr una comprensión sólida de los desarrollos musicales más complejos del siglo XX y la época actual.
 
